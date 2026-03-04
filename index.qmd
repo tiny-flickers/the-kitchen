@@ -1,5 +1,0 @@
----
-title: "Welcome to Tony's Open Kitchen of Research and Development"
----
-
-# Hello World
